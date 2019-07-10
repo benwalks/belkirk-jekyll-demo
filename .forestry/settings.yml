@@ -19,7 +19,7 @@ sections:
   - page
 - type: directory
   path: _people
-  label: People
+  label: People!
   create: all
   match: "*"
   templates:
